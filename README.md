@@ -33,8 +33,9 @@
     <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
       <img width="50" alt="Cypress" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" /> </a>
  
-    <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+ <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
       <img width="50" alt="Postman" src="https://www.svgrepo.com/download/354202/postman-icon.svg" /> </a>
+    <a href="https://github.com/postmanlabs/newman/" target="_blank" rel="noreferrer">
  
   </p>
 </div>
