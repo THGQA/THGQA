@@ -61,17 +61,11 @@
 <div>
   <h3 align="left">CI/CD:</h3>
   <p align="left">
-    <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
-      <img width="50" alt="Gitlab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /> </a>
+  
     <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
       <img width="50" alt="GithubActions" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" /> </a>
   </p>
 </div>  
       
   
-  ##
-     
-<div>
-  <h3 align="left">Articles and Contact</h3>
-  <a href="[https://www.linkedin.com/in/lucas-marques1204/](https://www.linkedin.com/company/thggroup/mycompany/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
-</div>
+
