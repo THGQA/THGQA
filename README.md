@@ -1,9 +1,9 @@
 <h1 align="center">Hello! My name is Lucas Marques and I am a Software Test Analyst. </h1>
 
 <div>
-  <a href="https://github.com/Lucasm12">
+  <a href="https://github.com/THGQA">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasm12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="143em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasm12&layout=compact&langs_count=3&theme=dracula&hide=Rich%20Text%20Format" />
+    <img height="143em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THGQA&layout=compact&langs_count=3&theme=dracula&hide=Rich%20Text%20Format" />
   </div>
   
  ##
